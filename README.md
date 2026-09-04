@@ -56,6 +56,9 @@ I can **help, train, and equip** you with everything you need for **DevOps, GitO
 I’ve always had a passion for system administration and the nuts and bolts of making servers run smoothly. Whether it's managing infrastructure, troubleshooting complex issues, or setting up new environments, **Linux** is my home.  
 On top of that, I also **maintain packages** for **Arch Linux** - keeping things fresh, up-to-date, and optimized for anyone in the Arch community. ⚙️🖥️
 
+### 🧪 Tech Projects
+- [tripack, a Typed IoC container for Python with sync and async resolution](https://goabonga.github.io/tripack/)
+
 ### ✨ Support or Contact
 Need help, advice, or just wanna geek out? Feel free to reach out - I'm always up for a chat or to lend a hand! 😄👇  
 [📧 Drop me an Email!](mailto:goabonga@pm.me?subject=[GitHub]%20Hello%20Chris%20!)  
