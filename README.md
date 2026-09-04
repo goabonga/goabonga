@@ -61,6 +61,9 @@ On top of that, I also **maintain packages** for **Arch Linux** - keeping things
 - [terragrunt-generator, a CLI that generates documented terragrunt.hcl manifests from Terraform module variables](https://goabonga.github.io/terragrunt-generator/)
 - [multicz, multi-component versioning for monorepos: bump apps, Docker images and Helm charts independently from conventional commits](https://goabonga.github.io/multicz/)
 
+### 🎓 Training Material
+- [netsec-lab, hands-on network security training where each topic is a self-contained attack → detect → defend proof of concept](https://goabonga.github.io/netsec-lab/)
+
 ### ✨ Support or Contact
 Need help, advice, or just wanna geek out? Feel free to reach out - I'm always up for a chat or to lend a hand! 😄👇  
 [📧 Drop me an Email!](mailto:goabonga@pm.me?subject=[GitHub]%20Hello%20Chris%20!)  
