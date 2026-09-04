@@ -60,6 +60,7 @@ On top of that, I also **maintain packages** for **Arch Linux** - keeping things
 - [tripack, a Typed IoC container for Python with sync and async resolution](https://goabonga.github.io/tripack/)
 - [terragrunt-generator, a CLI that generates documented terragrunt.hcl manifests from Terraform module variables](https://goabonga.github.io/terragrunt-generator/)
 - [multicz, multi-component versioning for monorepos: bump apps, Docker images and Helm charts independently from conventional commits](https://goabonga.github.io/multicz/)
+- [md-cv-gen, a CLI that turns a Markdown file into a print-ready, optionally password-protected PDF CV](https://github.com/goabonga/cv-generator)
 
 ### 🎓 Training Material
 - [netsec-lab, hands-on network security training where each topic is a self-contained attack → detect → defend proof of concept](https://goabonga.github.io/netsec-lab/)
