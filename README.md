@@ -64,6 +64,7 @@ On top of that, I also **maintain packages** for **Arch Linux** - keeping things
 
 ### 🍪 Templates & Cookiecutters
 - [cookiecutter-terragrunt-project, a Cookiecutter template that scaffolds DRY, multi-environment Terragrunt infrastructure projects](https://github.com/goabonga/cookiecutter-terragrunt-project)
+- [cookiecutter-kustomize-deployment, a Cookiecutter template that scaffolds a Kubernetes deployment combining an upstream Helm chart with Kustomize base and per-environment overlays](https://github.com/goabonga/cookiecutter-kustomize-deployment)
 
 ### 🎓 Training Material
 - [netsec-lab, hands-on network security training where each topic is a self-contained attack → detect → defend proof of concept](https://goabonga.github.io/netsec-lab/)
