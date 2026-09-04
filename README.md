@@ -62,6 +62,9 @@ On top of that, I also **maintain packages** for **Arch Linux** - keeping things
 - [multicz, multi-component versioning for monorepos: bump apps, Docker images and Helm charts independently from conventional commits](https://goabonga.github.io/multicz/)
 - [md-cv-gen, a CLI that turns a Markdown file into a print-ready, optionally password-protected PDF CV](https://github.com/goabonga/cv-generator)
 
+### 🍪 Templates & Cookiecutters
+- [cookiecutter-terragrunt-project, a Cookiecutter template that scaffolds DRY, multi-environment Terragrunt infrastructure projects](https://github.com/goabonga/cookiecutter-terragrunt-project)
+
 ### 🎓 Training Material
 - [netsec-lab, hands-on network security training where each topic is a self-contained attack → detect → defend proof of concept](https://goabonga.github.io/netsec-lab/)
 
