@@ -59,6 +59,7 @@ On top of that, I also **maintain packages** for **Arch Linux** - keeping things
 ### 🧪 Tech Projects
 - [tripack, a Typed IoC container for Python with sync and async resolution](https://goabonga.github.io/tripack/)
 - [terragrunt-generator, a CLI that generates documented terragrunt.hcl manifests from Terraform module variables](https://goabonga.github.io/terragrunt-generator/)
+- [multicz, multi-component versioning for monorepos: bump apps, Docker images and Helm charts independently from conventional commits](https://goabonga.github.io/multicz/)
 
 ### ✨ Support or Contact
 Need help, advice, or just wanna geek out? Feel free to reach out - I'm always up for a chat or to lend a hand! 😄👇  
